@@ -1,6 +1,8 @@
-
-streamlit
-streamlit-webrtc
-opencv-python-headless
-deepface
-tf-keras
+streamlit==1.40.2
+streamlit-webrtc==0.47.9
+opencv-python-headless==4.10.0.84
+deepface==0.0.93
+tensorflow-cpu==2.16.1
+tf-keras==2.16.0
+werkzeug==3.0.6
+av==12.3.0
